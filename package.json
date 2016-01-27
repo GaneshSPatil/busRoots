@@ -1,0 +1,22 @@
+{
+  "name": "busroutes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cityInfo.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaneshSPatil/busRoutes.git"
+  },
+  "author": "STEP-2015",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaneshSPatil/busRoutes/issues"
+  },
+  "homepage": "https://github.com/GaneshSPatil/busRoutes#readme",
+  "dependencies": {
+    "should": "^8.2.0"
+  }
+}
