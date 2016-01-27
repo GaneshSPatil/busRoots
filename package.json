@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/GaneshSPatil/busRoutes#readme",
   "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
     "should": "^8.2.0"
   }
 }
